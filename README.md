@@ -1,6 +1,5 @@
 # Chrome Extension Boilerplate With Angular
 
-````md
 # Project Setup Guide
 
 ## 1. Check if Node.js is Installed
