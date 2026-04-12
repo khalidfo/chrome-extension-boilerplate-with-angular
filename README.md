@@ -1,4 +1,18 @@
-# SEMRushEmailExtractorSource
+# Chrome Extension Boilerplate With Angular
+
+
+# Project Setup Guide
+
+## 1. Check if Node.js is Installed
+
+Run the following commands:
+
+```bash
+node -v
+npm -v
+
+If you see version numbers, Node.js is already installed.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
