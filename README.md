@@ -1,6 +1,6 @@
 # Chrome Extension Boilerplate With Angular
 
-
+````md
 # Project Setup Guide
 
 ## 1. Check if Node.js is Installed
@@ -10,9 +10,102 @@ Run the following commands:
 ```bash
 node -v
 npm -v
+````
 
 If you see version numbers, Node.js is already installed.
 
+---
+
+## 2. Install Node.js (If Not Installed)
+
+Download Node.js from:
+[https://nodejs.org](https://nodejs.org)
+
+After installation, restart your terminal and verify:
+
+```bash
+node -v
+npm -v
+```
+
+---
+
+## 3. Install Angular CLI
+
+Install Angular CLI globally:
+
+```bash
+npm install -g @angular/cli
+```
+
+Check installation:
+
+```bash
+ng version
+```
+
+---
+
+## 4. Install Project Dependencies
+
+Inside your project folder:
+
+```bash
+npm install
+```
+
+---
+
+## 5. Run Development Server
+
+```bash
+ng serve
+```
+
+Open in browser:
+[http://localhost:4200](http://localhost:4200)
+
+---
+
+## 6. Build the Project
+
+### Production Build
+
+```bash
+ng build
+```
+
+### Production Optimized Build
+
+```bash
+ng build --configuration production
+```
+
+---
+
+## 7. Build with Watch Mode
+
+Automatically rebuild on file changes:
+
+```bash
+ng build --watch
+```
+
+
+
+## Common Issue
+
+If `ng` command is not found:
+
+```bash
+npm install -g @angular/cli
+```
+
+Then restart your terminal.
+
+
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
