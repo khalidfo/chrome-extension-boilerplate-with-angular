@@ -1,4 +1,4 @@
-# Chrome Extension Boilerplate With Angular 
+# Chrome Extension Boilerplate With Angular  
 
 ## 1. Check if Node.js is Installed
 
