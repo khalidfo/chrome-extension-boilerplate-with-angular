@@ -3,7 +3,7 @@
 ## 1. Check if Node.js is Installed  
 
 Run the following commands: 
-  
+   
 ```bash
 node -v
 npm -v
