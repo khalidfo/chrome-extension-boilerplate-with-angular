@@ -9,7 +9,7 @@ node -v
 npm -v
 ````
 
-If you see version numbers, Node.js is already installed.
+If you see version numbers, Node.js is already installed. 
 
 ---
 
